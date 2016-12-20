@@ -1,5 +1,7 @@
-# Ejercicio3
-Inicio : LLamada Telefonica
+# Ejercicio4
+
+##Inicio : LLamada Telefonica
+
 ##Ingreso de Datos
 - Tiempo_Llamada
 - Costo_Minuto
@@ -11,4 +13,4 @@ Inicio : LLamada Telefonica
 - Multiplicar  Tiempo_Llamada por Costo_Minuto y alamacenar en Costo_Llamada
 - Mostrar Costo_Llamada
 
-##fin
+##Fin
